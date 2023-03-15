@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/travel-agency-website/static/css/main.f3b6da7b.css",
+    "main.js": "/travel-agency-website/static/js/main.6b9af1ca.js",
+    "static/media/experience-hero.jpg": "/travel-agency-website/static/media/experience-hero.e51f1f6fcfa7f8a14e7f.jpg",
+    "static/media/hero.png": "/travel-agency-website/static/media/hero.c7cad6ffb9e3ba789bc6.png",
+    "static/media/destinations-banner.png": "/travel-agency-website/static/media/destinations-banner.db2b5ae176691e4416de.png",
+    "static/media/news-letter-bg.jpg": "/travel-agency-website/static/media/news-letter-bg.d817e895613fe971db5f.jpg",
+    "static/media/destination6.png": "/travel-agency-website/static/media/destination6.499a6b31f3b5c7978728.png",
+    "static/media/image-gallery-6.jpg": "/travel-agency-website/static/media/image-gallery-6.a29f47ac85343114f1e2.jpg",
+    "static/media/testimonial-3.png": "/travel-agency-website/static/media/testimonial-3.be3e41d032d9f5b6b8e6.png",
+    "static/media/image-gallery-3.jpg": "/travel-agency-website/static/media/image-gallery-3.d1a102b50a0f09523a3f.jpg",
+    "static/media/image-gallery-7.jpg": "/travel-agency-website/static/media/image-gallery-7.31863b1886c199180522.jpg",
+    "static/media/image-gallery-4.jpg": "/travel-agency-website/static/media/image-gallery-4.f9ebc1230f849524b92c.jpg",
+    "static/media/image-gallery-1.jpg": "/travel-agency-website/static/media/image-gallery-1.b9ac6105195ee0bc267d.jpg",
+    "static/media/image-gallery-2.jpg": "/travel-agency-website/static/media/image-gallery-2.0557df05ad30d15a3864.jpg",
+    "static/media/image-gallery-5.jpg": "/travel-agency-website/static/media/image-gallery-5.20fa2c7c114f7447dfd4.jpg",
+    "static/media/testimonial-2.png": "/travel-agency-website/static/media/testimonial-2.01c342b54cebf7378799.png",
+    "static/media/plan-trip-hero.png": "/travel-agency-website/static/media/plan-trip-hero.6491f03100834ea4815e.png",
+    "static/media/destination7.png": "/travel-agency-website/static/media/destination7.4b6992d547628c3079af.png",
+    "static/media/destination8.png": "/travel-agency-website/static/media/destination8.24a4f9fcff8f1080f025.png",
+    "static/media/destination5.png": "/travel-agency-website/static/media/destination5.e5704627a80523f64623.png",
+    "static/media/destination2.png": "/travel-agency-website/static/media/destination2.b08a934e4230926c25c9.png",
+    "static/media/destination4.png": "/travel-agency-website/static/media/destination4.432124b66458273fd17e.png",
+    "static/media/destination-left.png": "/travel-agency-website/static/media/destination-left.78426b1adff4de901437.png",
+    "static/media/destination1.png": "/travel-agency-website/static/media/destination1.78426b1adff4de901437.png",
+    "static/media/destination3.png": "/travel-agency-website/static/media/destination3.8f9efb4f32adf1c6415e.png",
+    "static/media/testimonial-1.png": "/travel-agency-website/static/media/testimonial-1.a949a5da710c48214451.png",
+    "static/media/experience-shape.svg": "/travel-agency-website/static/media/experience-shape.ef4cd6e6478a90ad2b0d37ecb71b765b.svg",
+    "static/media/service1.png": "/travel-agency-website/static/media/service1.d033602133ecba7683b1.png",
+    "index.html": "/travel-agency-website/index.html",
+    "main.f3b6da7b.css.map": "/travel-agency-website/static/css/main.f3b6da7b.css.map",
+    "main.6b9af1ca.js.map": "/travel-agency-website/static/js/main.6b9af1ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3b6da7b.css",
+    "static/js/main.6b9af1ca.js"
+  ]
+}
