@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/travel-agency-website/static/css/main.52d2dec3.css",
-    "main.js": "/travel-agency-website/static/js/main.dcbe41b9.js",
+    "main.css": "/travel-agency-website/static/css/main.2843d128.css",
+    "main.js": "/travel-agency-website/static/js/main.1c420ec4.js",
     "static/media/about.png": "/travel-agency-website/static/media/about.534fc28b738f026ab253.png",
     "static/media/experience-hero.jpg": "/travel-agency-website/static/media/experience-hero.e51f1f6fcfa7f8a14e7f.jpg",
     "static/media/hero.png": "/travel-agency-website/static/media/hero.c7cad6ffb9e3ba789bc6.png",
@@ -16,7 +16,10 @@
     "static/media/image-gallery-2.jpg": "/travel-agency-website/static/media/image-gallery-2.0557df05ad30d15a3864.jpg",
     "static/media/image-gallery-5.jpg": "/travel-agency-website/static/media/image-gallery-5.20fa2c7c114f7447dfd4.jpg",
     "static/media/testimonial-2.png": "/travel-agency-website/static/media/testimonial-2.01c342b54cebf7378799.png",
+    "static/media/destination-details-slider-3.jpeg": "/travel-agency-website/static/media/destination-details-slider-3.238a08e964aa3031f42c.jpeg",
+    "static/media/destination-details-slider-1.jpeg": "/travel-agency-website/static/media/destination-details-slider-1.fb104b6db8387a5e8c42.jpeg",
     "static/media/plan-trip-hero.png": "/travel-agency-website/static/media/plan-trip-hero.6491f03100834ea4815e.png",
+    "static/media/destination-details-slider-2.jpeg": "/travel-agency-website/static/media/destination-details-slider-2.01daf21bec5b3146e626.jpeg",
     "static/media/destination7.png": "/travel-agency-website/static/media/destination7.4b6992d547628c3079af.png",
     "static/media/destination8.png": "/travel-agency-website/static/media/destination8.24a4f9fcff8f1080f025.png",
     "static/media/destination5.png": "/travel-agency-website/static/media/destination5.e5704627a80523f64623.png",
@@ -28,11 +31,11 @@
     "static/media/experience-shape.svg": "/travel-agency-website/static/media/experience-shape.ef4cd6e6478a90ad2b0d37ecb71b765b.svg",
     "static/media/service1.png": "/travel-agency-website/static/media/service1.d033602133ecba7683b1.png",
     "index.html": "/travel-agency-website/index.html",
-    "main.52d2dec3.css.map": "/travel-agency-website/static/css/main.52d2dec3.css.map",
-    "main.dcbe41b9.js.map": "/travel-agency-website/static/js/main.dcbe41b9.js.map"
+    "main.2843d128.css.map": "/travel-agency-website/static/css/main.2843d128.css.map",
+    "main.1c420ec4.js.map": "/travel-agency-website/static/js/main.1c420ec4.js.map"
   },
   "entrypoints": [
-    "static/css/main.52d2dec3.css",
-    "static/js/main.dcbe41b9.js"
+    "static/css/main.2843d128.css",
+    "static/js/main.1c420ec4.js"
   ]
 }
