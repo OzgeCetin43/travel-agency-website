@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/travel-agency-website/static/css/main.2843d128.css",
-    "main.js": "/travel-agency-website/static/js/main.1c420ec4.js",
+    "main.css": "/travel-agency-website/static/css/main.068c56f9.css",
+    "main.js": "/travel-agency-website/static/js/main.a40f82ea.js",
     "static/media/about.png": "/travel-agency-website/static/media/about.534fc28b738f026ab253.png",
     "static/media/experience-hero.jpg": "/travel-agency-website/static/media/experience-hero.e51f1f6fcfa7f8a14e7f.jpg",
     "static/media/hero.png": "/travel-agency-website/static/media/hero.c7cad6ffb9e3ba789bc6.png",
@@ -13,6 +13,7 @@
     "static/media/image-gallery-7.jpg": "/travel-agency-website/static/media/image-gallery-7.31863b1886c199180522.jpg",
     "static/media/image-gallery-4.jpg": "/travel-agency-website/static/media/image-gallery-4.f9ebc1230f849524b92c.jpg",
     "static/media/image-gallery-1.jpg": "/travel-agency-website/static/media/image-gallery-1.b9ac6105195ee0bc267d.jpg",
+    "static/media/about-hero.jpg": "/travel-agency-website/static/media/about-hero.8be83ea0a287325a4bde.jpg",
     "static/media/image-gallery-2.jpg": "/travel-agency-website/static/media/image-gallery-2.0557df05ad30d15a3864.jpg",
     "static/media/image-gallery-5.jpg": "/travel-agency-website/static/media/image-gallery-5.20fa2c7c114f7447dfd4.jpg",
     "static/media/testimonial-2.png": "/travel-agency-website/static/media/testimonial-2.01c342b54cebf7378799.png",
@@ -31,11 +32,11 @@
     "static/media/experience-shape.svg": "/travel-agency-website/static/media/experience-shape.ef4cd6e6478a90ad2b0d37ecb71b765b.svg",
     "static/media/service1.png": "/travel-agency-website/static/media/service1.d033602133ecba7683b1.png",
     "index.html": "/travel-agency-website/index.html",
-    "main.2843d128.css.map": "/travel-agency-website/static/css/main.2843d128.css.map",
-    "main.1c420ec4.js.map": "/travel-agency-website/static/js/main.1c420ec4.js.map"
+    "main.068c56f9.css.map": "/travel-agency-website/static/css/main.068c56f9.css.map",
+    "main.a40f82ea.js.map": "/travel-agency-website/static/js/main.a40f82ea.js.map"
   },
   "entrypoints": [
-    "static/css/main.2843d128.css",
-    "static/js/main.1c420ec4.js"
+    "static/css/main.068c56f9.css",
+    "static/js/main.a40f82ea.js"
   ]
 }
